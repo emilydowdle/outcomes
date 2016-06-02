@@ -18,24 +18,16 @@ This is the **2015 Outcomes Report for Turing**. The following data represents t
 
       June 1, 2016
 
-      Turing School of Software and Design asked Skills Fund to examine the 2015 Outcomes Report 
-      in order to provide transparency and third-party objectivity in reporting, tracking, and 
-      analyzing outcomes. 
+      Turing School of Software and Design asked Skills Fund to examine the 2015 Outcomes Report in order to provide transparency and third-party objectivity in reporting, tracking, and analyzing outcomes. 
       
-      The examination was performed on the data provided, and included a review of individual 
-      and aggregate student records through statistical analysis and, on a test-sample basis, 
-      evidence supporting the outcomes from employers.  We believe that this examination provides
-      a logical basis for the findings that:
+      The examination was performed on the data provided, and included a review of individual and aggregate student records through statistical analysis and, on a test-sample basis, evidence supporting the outcomes from employers.  We believe that this examination provides a logical basis for the findings that:
       
       * the data types collected are relevant, fair, and consistent with industry best practices
       * the data analysis was performed with accurate and clean mathematical formulas
-      * individual student records are robust and have a small (non-significant) percentage of
-      missing information
+      * individual student records are robust and have a small (non-significant) percentage of missing information
       * outcomes-specific data related to employment status is, on a test-sample basis, accurate
       
-      The conclusion of Skills Fund is that the Turing School of Software and Design 2015 
-      Outcomes Report is reflective of strong data integrity, uses consistent standards measures,
-      and indicates markers of a high-quality accelerated learning program.
+      The conclusion of Skills Fund is that the Turing School of Software and Design 2015 Outcomes Report is reflective of strong data integrity, uses consistent standards measures, and indicates markers of a high-quality accelerated learning program.
       
       Joseph Kozusko
       Co-founder, Skill Fund
@@ -56,6 +48,8 @@ Each of our four modules is pass/fail. How did graduates do? Among 94 respondent
 * Graduated with no repeats: 86 (91.5%)
 * Graduated after repeating one module: 4 (4.3%)
 * Graduated after repeating more than one module: 4 (4.3%)
+
+<img src="https://raw.githubusercontent.com/emilydowdle/pictures/master/photos/turingAcademicSuccess.png?token=AMALgClxseJvHo3bZ2W9t-vwUH5qd7dNks5XWd8swA%3D%3D" width="600">
 
 ### Non-Graduates
 
@@ -109,6 +103,8 @@ Therefore 95 students are tracked below.
 * full-time employment in 90+ days: 94 (95.8%)
 * under 90 days without an offer: 2 (2.1%)
 * over 90 days without an offer: 2 (2.1%)
+
+<img src="https://raw.githubusercontent.com/emilydowdle/pictures/master/photos/turingJobHuntLength.png?token=AMALgN-TSRWDCGXwwYaKOLGdZZsNkPhVks5XWeevwA%3D%3D" width="600">
 
 In addition, 9 students signed a job offer before graduation but did not graduate (and are thus not reflected above). If counted in both the available pool (95+9 = 104) and in the pre-grad jobs, the numbers become:
 
